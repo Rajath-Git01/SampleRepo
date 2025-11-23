@@ -3,4 +3,4 @@ Sample Repository
 
 New branch created for Karthik Review 
 
-Potato
+Potato added 2 times
